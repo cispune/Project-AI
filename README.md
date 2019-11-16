@@ -13,5 +13,5 @@ Algorithms we are focusing on,
 > Unsupervised and Semi Supervised Learning |
 
 feel free to contribute 
-Code distribuated under standard BSD LIC
+
 
